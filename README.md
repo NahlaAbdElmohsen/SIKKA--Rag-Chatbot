@@ -1,4 +1,4 @@
-# 🚖 <SIKKA RAG CHATBOT>
+# 🚖 SIKKA RAG CHATBOT
 > *AI-powered chatbot using RAG and vector search for transportation*
 
 ---
@@ -51,11 +51,11 @@ It allows users to:
 ## ⚙️ Installation
 
 ```bash
-* to install the project:
+- to install the project:
 git clone https://github.com/<NahlaAbdElmohsen>/<SIKKA--Rag-Chatbot>.git
 cd <SIKKA--Rag-Chatbot>
 
-* to install requirements for the project:
+- to install requirements for the project:
 pip install -r requirements.txt
 ```
 
@@ -77,17 +77,6 @@ PINECONE_API_KEY=your_api_key_here
 ```bash
 streamlit run app2.py
 ```
-
----
-
-## 📸 Screenshots
-
-![Alt Text](<img width="1257" height="489" alt="chat1" src="https://github.com/user-attachments/assets/f70f7187-4f36-4a73-8124-7713c173b395" />
-)
-![Alt Text](<img width="1236" height="318" alt="chat2" src="https://github.com/user-attachments/assets/8112ebc5-3af3-4ebf-8659-e09a062d81b3" />
-)
-![Alt Text](<img width="1226" height="551" alt="chat3" src="https://github.com/user-attachments/assets/1130d044-9922-4b79-8341-f8bdade2e203" />
-)
 
 ---
 
