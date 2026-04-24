@@ -5,7 +5,8 @@
 
 ## 📌 Overview
 
-SIKKA is a transportation app focused on Mansoura, Egypt, and its routes between surrounding governorates (Alexandria, Damietta, Dakahlia (internal), Sharqia, Gharbia). SIKKA has an intelligent chatbot that leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware responses about routes between governorates in Egypt (internal or external).
+SIKKA is a transportation app focused on Mansoura, Egypt, and its routes between surrounding governorates (Cairo, Damietta, Dakahlia (internal), Sharqia, Gharbia). 
+SIKKA has an intelligent chatbot that leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, context-aware responses about routes between governorates in Egypt (internal or external).
 
 It allows users to:
 
