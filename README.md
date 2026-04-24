@@ -1,4 +1,4 @@
-#🚖 <SIKKA RAG CHATBOT>
+# 🚖 <SIKKA RAG CHATBOT>
 > *AI-powered chatbot using RAG and vector search for transportation*
 
 ---
